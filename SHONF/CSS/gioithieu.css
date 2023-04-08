@@ -1,0 +1,23 @@
+.noidung{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+p{  
+    margin-left: 20px;
+    font-size: 20px;
+}
+ul,li{
+    list-style: none;
+}
+.img-list__a, .img-list__b{
+    margin-top: 50px;
+    display: flex;
+    margin-left: 30px;
+}
+.img-list__a li{
+    margin-left: 100px;
+}
+.img-list__b li{
+    margin-left: 100px;
+}
