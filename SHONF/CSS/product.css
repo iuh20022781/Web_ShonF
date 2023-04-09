@@ -1,0 +1,107 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.main{
+  margin-left: 200px;
+  margin-top: 140px;
+}
+.main_product{
+  margin-top: 10px;
+  display: flex;
+}
+
+
+.left_T{
+  width:640px;
+  height:644px;
+}
+.left_D{
+  margin-top: 20px;
+}
+.right{
+  margin-left: 60px;
+}
+.item{
+  display: flex;
+}
+.item ul,li{
+  list-style: none;
+}
+.right p,ul,li{
+  font-size: 20px;
+}
+
+.right__a{
+  display: flex;
+  flex: 1;
+}
+.right__a1{
+  font-size: 20px;
+  flex: 1;
+}
+.right__a2{
+  font-size: 20px;
+  flex: 1;
+}
+.form-control:focus {
+	outline: none;
+	box-shadow: none;
+}
+.right__b{
+  margin-top: 20px;
+}
+.right__b1a{
+  display: flex;
+}
+.right__b1a__item button{
+  width: 376px;
+  height: 70px;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
+.right__b1b__item button{
+  width: 475px;
+  height: 70px;
+  background-color: #f15e2c;
+    border-radius: 0px;
+    color: #fff;
+    font-size: 23px;
+    padding: 20px 0px;
+    display: block;
+    font-weight: bold;
+}
+.right__b1a__item :hover{
+  color: rgba(175, 26, 26, 0.7); /*màu khi trỏ chuột vào  */
+  cursor: pointer; /*khi trỏ chuột vào hiện bàn tay  */   
+  text-decoration: none !important    ;
+}
+.right__b1b__item :hover{
+  color: rgba(175, 26, 26, 0.7); /*màu khi trỏ chuột vào  */
+  cursor: pointer; /*khi trỏ chuột vào hiện bàn tay  */   
+  text-decoration: none !important    ;
+}
+
+.right__b2{
+  width: 475px;
+}
+.right__b2 summary:hover{
+  color: rgba(175, 26, 26, 0.7); /*màu khi trỏ chuột vào  */
+  cursor: pointer; /*khi trỏ chuột vào hiện bàn tay  */   
+  text-decoration: none !important    ;
+}
+.main__south p{
+  margin-top: 50px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bolder;
+}
+.list_img{
+  width: 1250px;
+  height: 282px;
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+}
