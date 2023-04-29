@@ -1,0 +1,14 @@
+.conten{
+    margin-top:  150px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.conten h1{
+    text-align: center;
+}
+.conten p{
+    margin-top: 20px;
+    font-size: 14px;
+    border-bottom: rgb(205, 204, 204) dashed 2px;
+    margin-bottom: 15px;
+}
